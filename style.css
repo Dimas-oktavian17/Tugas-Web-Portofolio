@@ -1,0 +1,31 @@
+.navbar-brand {
+  font-family: "Roboto Slab", serif;
+}
+.jumbotron {
+  padding: 3rem;
+}
+.display-4 {
+  font-family: "Roboto Slab", serif;
+}
+.offcanvas-body {
+  box-shadow: -6px 4px 14px 0px rgb(82 82 82);
+}
+.progress {
+  width: 50%;
+}
+.text {
+  color: rgb(137, 162, 184);
+  text-align: left;
+  padding-right: 200px;
+}
+.carousel-item {
+  height: 500px;
+}
+.carousel-item .text-bold {
+  font-weight: bold;
+}
+.ps {
+  margin-left: 2rem;
+}
+
+/*https://ux.stackexchange.com/questions/42798/honest-way-to-show-your-skills-in-portfolio*/
